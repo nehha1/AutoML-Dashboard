@@ -1,3 +1,18 @@
+##Automate the ML lifecycle: data ingestion, model training, deployment, and monitoring and workflow integration.
+##Aim:
+-To focus on operational efficiency and end-to-end cater to both technical and non-technical users.
+-Deliver a functional prototype showcasing scalability and real-world integration potential.
+
+ **Auto-Recommendation of Pipelines:** Simplifies the process of selecting optimal ML workflows by leveraging past experiments and AutoML capabilities.
+ 
+ **Explainable AI (XAI) Integration:** Enhances model transparency, making it easier for both technical and non-technical users to trust and understand model predictions.
+ 
+ **Continuous Learning & Model Drift Detection:** Keeps models relevant and effective by automatically retraining them when performance degrades in production.
+ 
+ **One-Click Deployment to Multiple Environments:** Streamlines the deployment process, offering flexibility to deploy on the cloud,or on-premise environments with minimal 
+effort.
+ **Custom Feature Store Integration:** Boosts productivity and consistency by allowing users to reuse engineered features across projects, reducing redundant computations.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
