@@ -1,4 +1,4 @@
-#Automate the ML lifecycle: data ingestion, model training, deployment, and monitoring and workflow integration.
+###Automate the ML lifecycle: data ingestion, model training, deployment, and monitoring and workflow integration.
 ##Aim:
 -To focus on operational efficiency and end-to-end cater to both technical and non-technical users.
 -Deliver a functional prototype showcasing scalability and real-world integration potential.
